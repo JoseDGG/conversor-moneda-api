@@ -1,3 +1,6 @@
+package com.jdgg.conversor.servicios;
+
+import com.jdgg.conversor.ui.Resultados;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 
@@ -5,7 +8,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Map;
 
-public class GenerarArchivo extends Resultados{
+public class GenerarArchivo extends Resultados {
 
     public void guardar(Map<String, String> historial) {
         if(historial.isEmpty() || historial.containsValue(null)){

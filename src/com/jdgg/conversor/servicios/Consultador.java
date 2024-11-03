@@ -1,4 +1,8 @@
+package com.jdgg.conversor.servicios;
+
 import com.google.gson.Gson;
+import com.jdgg.conversor.modelos.Monedas;
+
 import java.net.URI;
 import java.net.http.HttpClient;
 import java.net.http.HttpRequest;

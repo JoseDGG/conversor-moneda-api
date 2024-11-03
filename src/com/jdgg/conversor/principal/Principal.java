@@ -1,3 +1,10 @@
+package com.jdgg.conversor.principal;
+
+import com.jdgg.conversor.servicios.Consultador;
+import com.jdgg.conversor.servicios.GenerarArchivo;
+import com.jdgg.conversor.ui.Menu;
+import com.jdgg.conversor.ui.Resultados;
+
 import java.util.InputMismatchException;
 import java.util.Map;
 import java.util.Scanner;
