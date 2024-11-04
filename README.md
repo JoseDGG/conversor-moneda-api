@@ -15,6 +15,24 @@ Este es un proyecto en Java que permite realizar conversiones de divisas en tiem
 - Ver y Guardar un historial de conversiones.
 - Exportación del historial de conversiones en formato JSON.
 
+
+## El menú se ve de la siguiente forma:
+
+Sea Bienvenido/a al conversor de moneda.
+
+Las opciones son:
+1. Dólar =>> Peso Colombiano
+2. Peso Colombiano =>> Dólar
+3. Dólar =>> Real Brasileño
+4. Real Brasileño =>> Dólar
+5. Dólar =>> Peso Méxicano
+6. Peso Méxicano =>> Dólar
+7. Personalizado: Usa el estandard ISO 4217 para escribir código textual de la moneda. Ej: USD
+8. Ver Historial de conversiones y generar archivo.
+9. Salir
+
+Digite una opción válida:
+
 ## Estructura del Proyecto
 
 El proyecto está organizado en varias clases:
@@ -39,9 +57,9 @@ El proyecto está organizado en varias clases:
 
 **GENERAL**
 
-GIF de la ejecución del programa.
+GIF demostrativo completo de la ejecución del programa.
 
-![Ejecución completa del programa](src/com/jdgg/conversor/assets/General.gif)
+![Ejecución completa del programa](src/com/jdgg/conversor/assets/general.gif)
 
 **OPCIONES 1 A 6. Predeterminados**
 
