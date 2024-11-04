@@ -27,10 +27,10 @@ El proyecto está organizado en varias clases:
 
 ## Uso
 
-1. Ejecuta el programa y selecciona una opción de conversión.
-2. Ingresa el valor que deseas convertir.
-3. Visualiza el resultado en pantalla.
-4. si deseas realizar una consulta personzalidad seleccionas la opción correspondiente pero asegurate de que el código estandarizado sea el correcto.
-5. Si deseas ver el historial de conversiones, selecciona la opción correspondiente en el menú.
-6. El historial de conversiones se guarda en un archivo JSON, llamado Historial de conversiones.json, en el directorio del proyecto.
-7. El programa maneja excepciones para evitar frenar el programa por ello no se detendrá hasta seleccionar la opción correspondiente
+1.  Ejecuta el programa y selecciona una opción de conversión.
+2.  Ingresa el valor que deseas convertir.
+3.  Visualiza el resultado en pantalla.
+4.  si deseas realizar una consulta personzalidad seleccionas la opción correspondiente pero asegurate de que el código estandarizado sea el correcto.
+5.  Si deseas ver el historial de conversiones, selecciona la opción correspondiente en el menú.
+6.  El historial de conversiones se guarda en un archivo JSON, llamado Historial de conversiones.json, en el directorio del proyecto.
+7.  El programa maneja excepciones para evitar frenar el programa por ello no se detendrá hasta seleccionar la opción correspondiente
