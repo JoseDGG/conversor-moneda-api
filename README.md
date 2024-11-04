@@ -34,3 +34,36 @@ El proyecto está organizado en varias clases:
 5.  Si deseas ver el historial de conversiones, selecciona la opción correspondiente en el menú.
 6.  El historial de conversiones se guarda en un archivo JSON, llamado Historial de conversiones.json, en el directorio del proyecto.
 7.  El programa maneja excepciones para evitar frenar el programa por ello no se detendrá hasta seleccionar la opción correspondiente
+
+## Video demostrativo
+
+**GENERAL**
+
+GIF de la ejecución del programa.
+
+![Ejecución completa del programa](src/com/jdgg/conversor/assets/General.gif)
+
+**OPCIONES 1 A 6. Predeterminados**
+
+Apreciación de 2 de las 6 opciones predeterminadas.
+
+![Ejecución completa del programa](src/com/jdgg/conversor/assets/Predeterminadas.gif)
+
+**OPCIÓN 7. Personalizado**
+
+Demostración de la opción predeterminada en el cuál es posible escoger el código de la moneda de forma personalizada.
+
+![Ejecución completa del programa](src/com/jdgg/conversor/assets/Personalizado.gif)
+
+**OPCIÓN 8. Historial**
+
+El historial es persistente por tanto así ocurran errores estos no serán guardados ni afectarán como se guarda ni el archivo generado.
+
+![Ejecución completa del programa](src/com/jdgg/conversor/assets/Historial.gif)
+
+**MANEJO DE ERRORES**
+
+Los errores han sido manejados con try catch, if y lógica de programación para que no puedan detener el programa ni generar acciones no deseadas.
+
+![Ejecución completa del programa](src/com/jdgg/conversor/assets/Manejo-de-errores.gif)
+
