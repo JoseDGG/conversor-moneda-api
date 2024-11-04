@@ -1,6 +1,6 @@
 # Conversor de Divisas
 
-Este es un proyecto en Java que permite realizar conversiones de divisas en tiempo real utilizando la API de ExchangeRate-API. El programa también guarda un historial de conversiones y puede exportar los resultados a un archivo JSON para un fácil seguimiento.
+Este es un proyecto en Java que permite realizar conversiones de divisas en tiempo real, sean predeterminadas o personalizadas utilizando la API de ExchangeRate-API. El programa también guarda un historial de conversiones y puede exportar los resultados a un archivo JSON para un fácil seguimiento.
 
 ## Características
 
