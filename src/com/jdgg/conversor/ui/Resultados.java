@@ -13,7 +13,7 @@ public class Resultados {
         return mapHistorial;
     }
 
-    //el metodo imprimirUltimaConversion() solo se actualiza después de guardar los datos
+    //el método imprimirUltimaConversion() solo se actualiza después de guardar los datos
     public void imprimirUltimaConversion(){
         System.out.println(baseHistorial + " = " + targetHistorial);
     }

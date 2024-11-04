@@ -21,7 +21,7 @@ public class Consultador{
     public Map<String, Double> getConversionRates() {
         try {
         Monedas monedas = llamarAPI();
-        return monedas.conversion_rates();
+        return monedas.conversion_rates(); //retorna un mapa con las conversiones de monedas que hay en la API
         }catch (Exception e){
             System.out.println("No se pudo obtener las tasas de conversión. Por favor, intente otra vez.");
         }
